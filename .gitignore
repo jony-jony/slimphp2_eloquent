@@ -1,0 +1,9 @@
+.DS_Store
+Desktop.ini
+.project
+.settings
+._*
+Thumbs.db
+composer.lock
+nbproject/
+vendor/
